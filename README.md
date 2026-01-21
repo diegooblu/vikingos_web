@@ -34,11 +34,11 @@ Sigue estos pasos para levantar el proyecto en tu entorno local:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/TU_USUARIO/vikingos.git](https://github.com/TU_USUARIO/vikingos.git)
-   cd vikingos
+      git clone [https://github.com/diegooblu/vikingos.git](https://github.com/diegooblu/vikingos.git)
+      cd vikingos
 2. **Instalar dependencias:**
    ```bash
-    npm install --legacy-peer-deps
+      npm install --legacy-peer-deps
 3. **Iniciar el entorno de desarrollo**
-  ```bash
-    npm run dev
+   ```bash
+      npm run dev
